@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name qwattash)(type Legacy)(uri /home/qwattash/git/kicad-symbols/qwattash-symbols.lib)(options "")(descr ""))
+)
